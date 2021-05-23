@@ -1,0 +1,191 @@
+fghanistan                                        WB_LI   31 Eastern Mediterranean     1999
+Albania                                            WB_LMI  85 Europe                    1999
+Algeria                                            WB_UMI  83 Africa                    1999
+Andorra                                            WB_HI   97 Europe                    1999
+Angola                                             WB_LMI  46 Africa                    1999
+Antigua and Barbuda                                WB_HI   99 Americas                  1999
+Argentina                                          WB_UMI  97 Americas                  1999
+Armenia                                            WB_LMI  92 Europe                    1999
+Australia                                          WB_HI   88 Western Pacific           1999
+Austria                                            WB_HI   65 Europe                    1999
+Azerbaijan                                         WB_LMI  68 Europe                    1999
+Bahamas                                            WB_HI   86 Americas                  1999
+Bahrain                                            WB_HI   94 Eastern Mediterranean     1999
+Bangladesh                                         WB_LI   71 South-East Asia           1999
+Barbados                                           WB_HI   86 Americas                  1999
+Belarus                                            WB_UMI  98 Europe                    1999
+Belgium                                            WB_HI   82 Europe                    1999
+Belize                                             WB_LMI  82 Americas                  1999
+Benin                                              WB_LI   69 Africa                    1999
+Bhutan                                             WB_LMI  77 South-East Asia           1999
+Bolivia (Plurinational State of)                   WB_LMI  79 Americas                  1999
+Bosnia and Herzegovina                             WB_UMI  83 Europe                    1999
+Botswana                                           WB_UMI  90 Africa                    1999
+Brazil                                             WB_UMI  99 Americas                  1999
+Brunei Darussalam                                  WB_HI   94 Western Pacific           1999
+Bulgaria                                           WB_UMI  96 Europe                    1999
+Burkina Faso                                       WB_LI   36 Africa                    1999
+Burundi                                            WB_LI   70 Africa                    1999
+Cabo Verde                                         WB_LMI  85 Africa                    1999
+Cambodia                                           WB_LI   63 Western Pacific           1999
+Cameroon                                           WB_LMI  46 Africa                    1999
+Canada                                             WB_HI   96 Americas                  1999
+Central African Republic                           WB_LI   37 Africa                    1999
+Chad                                               WB_LI   30 Africa                    1999
+Chile                                              WB_UMI  94 Americas                  1999
+China                                              WB_LMI  84 Western Pacific           1999
+Colombia                                           WB_UMI  79 Americas                  1999
+Comoros                                            WB_LI   69 Africa                    1999
+Congo                                              WB_LMI  23 Africa                    1999
+Cook Islands                                       WB_HI   84 Western Pacific           1999
+Costa Rica                                         WB_UMI  88 Americas                  1999
+Cote d'Ivoire                                      WB_LMI  57 Africa                    1999
+Croatia                                            WB_HI   92 Europe                    1999
+Cuba                                               WB_UMI  96 Americas                  1999
+Cyprus                                             WB_HI   87 Europe                    1999
+Czech Republic                                     WB_HI   97 Europe                    1999
+Democratic People's Republic of Korea              WB_LI   63 South-East Asia           1999
+Democratic Republic of the Congo                   WB_LI   15 Africa                    1999
+Denmark                                            WB_HI   92 Europe                    1999
+Djibouti                                           WB_LMI  23 Eastern Mediterranean     1999
+Dominica                                           WB_UMI  99 Americas                  1999
+Dominican Republic                                 WB_UMI  82 Americas                  1999
+Ecuador                                            WB_LMI  99 Americas                  1999
+Egypt                                              WB_LMI  96 Eastern Mediterranean     1999
+El Salvador                                        WB_LMI  94 Americas                  1999
+Equatorial Guinea                                  WB_HI   51 Africa                    1999
+Eritrea                                            WB_LI   88 Africa                    1999
+Estonia                                            WB_HI   92 Europe                    1999
+Ethiopia                                           WB_LI   32 Africa                    1999
+Fiji                                               WB_UMI  79 Western Pacific           1999
+Finland                                            WB_HI   96 Europe                    1999
+France                                             WB_HI   83 Europe                    1999
+Gabon                                              WB_UMI  55 Africa                    1999
+Gambia                                             WB_LI   90 Africa                    1999
+Georgia                                            WB_LMI  76 Europe                    1999
+Germany                                            WB_HI   92 Europe                    1999
+Ghana                                              WB_LI   81 Africa                    1999
+Greece                                             WB_HI   88 Europe                    1999
+Grenada                                            WB_UMI  94 Americas                  1999
+Guatemala                                          WB_LMI  83 Americas                  1999
+Guinea                                             WB_LI   40 Africa                    1999
+Guinea-Bissau                                      WB_LI   70 Africa                    1999
+Guyana                                             WB_LMI  87 Americas                  1999
+Haiti                                              WB_LI   54 Americas                  1999
+Honduras                                           WB_LMI  98 Americas                  1999
+Hungary                                            WB_HI   99 Europe                    1999
+Iceland                                            WB_HI   94 Europe                    1999
+India                                              WB_LMI  58 South-East Asia           1999
+Indonesia                                          WB_LMI  77 South-East Asia           1999
+Iran (Islamic Republic of)                         WB_LMI  99 Eastern Mediterranean     1999
+Iraq                                               WB_LMI  90 Eastern Mediterranean     1999
+Ireland                                            WB_HI   77 Europe                    1999
+Israel                                             WB_HI   97 Europe                    1999
+Italy                                              WB_HI   70 Europe                    1999
+Jamaica                                            WB_UMI  82 Americas                  1999
+Japan                                              WB_HI   95 Western Pacific           1999
+Jordan                                             WB_LMI  83 Eastern Mediterranean     1999
+Kazakhstan                                         WB_UMI  99 Europe                    1999
+Kenya                                              WB_LI   76 Africa                    1999
+Kiribati                                           WB_LMI  62 Western Pacific           1999
+Kuwait                                             WB_HI   96 Eastern Mediterranean     1999
+Kyrgyzstan                                         WB_LI   99 Europe                    1999
+Lao People's Democratic Republic                   WB_LI   71 Western Pacific           1999
+Latvia                                             WB_UMI  97 Europe                    1999
+Lebanon                                            WB_UMI  77 Eastern Mediterranean     1999
+Lesotho                                            WB_LMI  77 Africa                    1999
+Liberia                                            WB_LI   69 Africa                    1999
+Libya                                              WB_UMI  92 Eastern Mediterranean     1999
+Lithuania                                          WB_UMI  97 Europe                    1999
+Luxembourg                                         WB_HI   91 Europe                    1999
+Madagascar                                         WB_LI   55 Africa                    1999
+Malawi                                             WB_LI   82 Africa                    1999
+Malaysia                                           WB_UMI  87 Western Pacific           1999
+Maldives                                           WB_LMI  97 South-East Asia           1999
+Mali                                               WB_LI   51 Africa                    1999
+Malta                                              WB_HI   67 Europe                    1999
+Marshall Islands                                   WB_LMI  93 Western Pacific           1999
+Mauritania                                         WB_LI   62 Africa                    1999
+Mauritius                                          WB_UMI  80 Africa                    1999
+Mexico                                             WB_UMI  94 Americas                  1999
+Micronesia (Federated States of)                   WB_LMI  79 Western Pacific           1999
+Monaco                                             WB_HI   99 Europe                    1999
+Mongolia                                           WB_LMI  93 Western Pacific           1999
+Morocco                                            WB_LMI  90 Eastern Mediterranean     1999
+Mozambique                                         WB_LI   67 Africa                    1999
+Myanmar                                            WB_LI   86 South-East Asia           1999
+Namibia                                            WB_UMI  65 Africa                    1999
+Nauru                                              WB_HI   49 Western Pacific           1999
+Nepal                                              WB_LI   81 South-East Asia           1999
+Netherlands                                        WB_HI   95 Europe                    1999
+New Zealand                                        WB_HI   83 Western Pacific           1999
+Nicaragua                                          WB_LMI  87 Americas                  1999
+Niger                                              WB_LI   35 Africa                    1999
+Nigeria                                            WB_LMI  35 Africa                    1999
+Niue                                               WB_LI   99 Western Pacific           1999
+Norway                                             WB_HI   90 Europe                    1999
+Oman                                               WB_HI   99 Eastern Mediterranean     1999
+Pakistan                                           WB_LMI  56 Eastern Mediterranean     1999
+Palau                                              WB_UMI  96 Western Pacific           1999
+Panama                                             WB_UMI  90 Americas                  1999
+Papua New Guinea                                   WB_LMI  62 Western Pacific           1999
+Paraguay                                           WB_LMI  82 Americas                  1999
+Peru                                               WB_UMI  93 Americas                  1999
+Philippines                                        WB_LMI  80 Western Pacific           1999
+Poland                                             WB_UMI  97 Europe                    1999
+Portugal                                           WB_HI   92 Europe                    1999
+Qatar                                              WB_HI   87 Eastern Mediterranean     1999
+Republic of Korea                                  WB_HI   90 Western Pacific           1999
+Republic of Moldova                                WB_LMI  93 Europe                    1999
+Romania                                            WB_UMI  98 Europe                    1999
+Russian Federation                                 WB_UMI  97 Europe                    1999
+Rwanda                                             WB_LI   78 Africa                    1999
+Saint Kitts and Nevis                              WB_UMI  99 Americas                  1999
+Saint Lucia                                        WB_UMI  95 Americas                  1999
+Saint Vincent and the Grenadines                   WB_UMI  87 Americas                  1999
+Samoa                                              WB_LMI  91 Western Pacific           1999
+San Marino                                         WB_HI   99 Europe                    1999
+Sao Tome and Principe                              WB_LMI  64 Africa                    1999
+Saudi Arabia                                       WB_HI   92 Eastern Mediterranean     1999
+Senegal                                            WB_LI   60 Africa                    1999
+Serbia                                             WB_UMI  84 Europe                    1999
+Seychelles                                         WB_UMI  99 Africa                    1999
+Sierra Leone                                       WB_LI   62 Africa                    1999
+Singapore                                          WB_HI   97 Western Pacific           1999
+Slovakia                                           WB_HI   99 Europe                    1999
+Slovenia                                           WB_HI   98 Europe                    1999
+Solomon Islands                                    WB_LMI  96 Western Pacific           1999
+Somalia                                            WB_LI   38 Eastern Mediterranean     1999
+South Africa                                       WB_UMI  75 Africa                    1999
+Spain                                              WB_HI   95 Europe                    1999
+Sri Lanka                                          WB_LMI  95 South-East Asia           1999
+Sudan                                              WB_LMI  51 Eastern Mediterranean     1999
+Suriname                                           WB_UMI  85 Americas                  1999
+Swaziland                                          WB_LMI  92 Africa                    1999
+Sweden                                             WB_HI   89 Europe                    1999
+Switzerland                                        WB_HI   81 Europe                    1999
+Syrian Arab Republic                               WB_LMI  86 Eastern Mediterranean     1999
+Tajikistan                                         WB_LI   79 Europe                    1999
+Thailand                                           WB_LMI  96 South-East Asia           1999
+The former Yugoslav Republic of Macedonia          WB_UMI  98 Europe                    1999
+Togo                                               WB_LI   57 Africa                    1999
+Tonga                                              WB_LMI  97 Western Pacific           1999
+Trinidad and Tobago                                WB_HI   88 Americas                  1999
+Tunisia                                            WB_LMI  90 Eastern Mediterranean     1999
+Turkey                                             WB_UMI  82 Europe                    1999
+Turkmenistan                                       WB_LMI  97 Europe                    1999
+Tuvalu                                             WB_UMI  94 Western Pacific           1999
+Uganda                                             WB_LI   55 Africa                    1999
+Ukraine                                            WB_LMI  99 Europe                    1999
+United Arab Emirates                               WB_HI   96 Eastern Mediterranean     1999
+United Kingdom                                     WB_HI   88 Europe                    1999
+United Republic of Tanzania                        WB_LI   72 Africa                    1999
+United States of America                           WB_HI   92 Americas                  1999
+Uruguay                                            WB_UMI  99 Americas                  1999
+Uzbekistan                                         WB_LI   96 Europe                    1999
+Vanuatu                                            WB_LMI  62 Western Pacific           1999
+Venezuela (Bolivarian Republic of)                 WB_UMI  84 Americas                  1999
+Viet Nam                                           WB_LI   94 Western Pacific           1999
+Yemen                                              WB_LI   74 Eastern Mediterranean     1999
+Zambia                                             WB_LI   85 Africa                    1999
+Zimbabwe                                           WB_LI   77 Africa                    1999
